@@ -3,4 +3,5 @@ ultralytics
 torch
 Pillow
 gunicorn
+seaborn
 
